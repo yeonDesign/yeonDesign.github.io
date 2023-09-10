@@ -1,5 +1,5 @@
 ---
-layout: interactive media design
+layout: page
 title: interactive media design
 subtitle: sookmyung woman unversity
 ---
