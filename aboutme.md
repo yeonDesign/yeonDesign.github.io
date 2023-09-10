@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm yeon. 3D motion designer.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is yeon. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I specialize in 3D modeling and texturing.
+- I record videos and create motion graphics and animations.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am learning visual-video design at Sookmyung Women's University. Among the design fields, I am focusing on **3d game background design** , and I am working on various other designs. I will show you my design portfolio and the process of working on it on this blog
