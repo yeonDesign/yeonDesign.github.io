@@ -4,4 +4,4 @@ title: Motion graphic
 subtitle: This is my motion graphic work.
 ---
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1708" height="773" src="https://www.youtube.com/embed/mw0KWKOjKrM" title="[FMV] Sillica Gel - NO PAIN (fan animated music video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
