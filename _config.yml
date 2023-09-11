@@ -21,9 +21,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  portpolio: 
-    - "motion graphics"
-    - "3d modeling"
+  portfolio: 
+    - motion graphic: "motion graphic"
+    - 3d modeling: "3d modeling"
 
   design study:
     - Interactive Media: "interactive media design"
