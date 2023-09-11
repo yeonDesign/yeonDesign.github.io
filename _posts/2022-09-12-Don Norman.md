@@ -1,10 +1,9 @@
 ---
 layout: post
 title: The three ways that good design makes you happy | Don Norman
-subtitle: There's lots to learn!
+subtitle: Emotions and Design
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
