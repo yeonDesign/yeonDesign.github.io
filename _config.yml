@@ -5,6 +5,8 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+futrue: true 
+
 ############################
 # --- Required options --- #
 ############################
@@ -296,4 +298,5 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
 
