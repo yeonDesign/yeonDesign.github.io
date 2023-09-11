@@ -21,6 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  portpolio: "portpolio"
   design study:
     - Interactive Media: "interactive media design"
     - Digital media content: "digital media content"
