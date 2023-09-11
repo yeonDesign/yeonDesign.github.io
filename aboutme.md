@@ -8,6 +8,9 @@ My name is yeon. I have the following qualities:
 
 - I specialize in 3D modeling and texturing.
 - I record videos and create motion graphics and animations.
+ㅤ   ㅤ  
+ㅤ   
+
 
 ## My design philosophy
 
