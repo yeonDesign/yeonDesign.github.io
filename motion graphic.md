@@ -13,6 +13,8 @@ subtitle: This is my motion graphic work.
 This video is an unofficial title sequence work for the movie "Regarding Kevin."
 This video is a project aimed at depicting the inner emotions of the main characters, Kevin and Eva, from the movie using color, drawing, and motion graphics. In the beginning, we aim to represent Eva's confusing emotions, in the middle, Kevin's troubled emotions, and towards the end, the climax of events visually.
 
+---
+
 
 ## no pain
 
