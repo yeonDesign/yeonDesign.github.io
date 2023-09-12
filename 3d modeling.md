@@ -6,7 +6,7 @@ subtitle: This is 3d modeling work.
 
 ## Embracing Nature: Greenhouse Containers
 
-![스크린샷](https://github.com/yeonDesign/yeondesign.github.io/assets/144376354/f2a7ec7c-b0f2-48c4-9845-d8f92b248fc3)
+![스크린샷](https://github.com/yeonDesign/yeondesign.github.io/assets/144376354/be281a81-b398-4741-b7ff-fe822ff86375)
 
 
 It's 3D made using blender and Photoshop.
