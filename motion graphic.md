@@ -14,7 +14,7 @@ This video is an unofficial title sequence work for the movie "Regarding Kevin."
 This video is a project aimed at depicting the inner emotions of the main characters, Kevin and Eva, from the movie using color, drawing, and motion graphics. In the beginning, we aim to represent Eva's confusing emotions, in the middle, Kevin's troubled emotions, and towards the end, the climax of events visually.
 
 
-## no pain.
+## no pain
 
 
 <iframe width="750" height="465" src="https://www.youtube.com/embed/mw0KWKOjKrM" title="[FMV] Sillica Gel - NO PAIN (fan animated music video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
